@@ -1,9 +1,10 @@
-it's okay to be wrong
+title: it's okay to be wrong
 
-if you understand
-there is something
-to understand
-i think that means
-you understand.
+lyrics:
+	if you understand
+	there is something
+	to understand
+	i think that means
+	you understand.
 
-"facts are difficult and inconvenient"
+	"facts are difficult and inconvenient"
